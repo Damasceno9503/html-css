@@ -1,0 +1,19 @@
+@charset "UTF-08";
+
+h1 {
+    color: rgba(1, 192, 1, 0.822);
+}
+
+#principal {
+    color: rgb(0, 255, 0);
+}
+
+.cod { 
+    background-color: rgba(143, 143, 143, 0.301);
+}
+
+div:hover {
+    color: red;
+    background-color: rgba(85, 84, 84, 0.459);
+    width: 345px;
+}
